@@ -1,2 +1,2 @@
 # Language-Learning
-Repository with code practicing many different languages
+Simple practice programs in different languages 
